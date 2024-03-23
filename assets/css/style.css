@@ -97,11 +97,14 @@ p {
     height: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
+    /* display:flex;
+    flex-wrap: wrap;
+ */
 }
-
 .benefit-lead, .benefit-brand, .benefit-cost  {
     margin-bottom: 32px;
     color: #ffffff;
+    
 }
 /*consolidated code  */
 /* .benefit-brand {
