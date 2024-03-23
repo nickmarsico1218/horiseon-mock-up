@@ -1,23 +1,23 @@
-#Horiseon Mock-up
+# Horiseon Mock-up
 
-##Description
+## Description
 The Horiseon initial web application did not meet current accessibility standards, by adding alt attributes to the images the application gives information if for some reason the image may not be viewed. Using semantic HTML elements the document follows a logical structure so that it can be read in a more concise manner.
 Much of the CSS was redundant; it has been restructured so as nothing was unnecessarily repeated. Making these changes has helped me to understand the proper way to structure an HTML & CSS document to adhere to current industry standards, and how using semantic elements and the rule "Do Not Repeat Yourself" makes the documents easier to be read by others viewing/working with the code.
 
 
 
-##Installation
+## Installation
 N/A
 
 ##Usage
 The changes that were made to the original code have been commented out so that they can be referred to by someone looking to see what has been consolidated and added. To show what changes were made to meet current industry standards. 
 
-![alt text](assets\127.0.0.1_5500_index.html.png)
+![Horiseon](assets\127.0.0.1_5500_index.html.png)
 
-##Credits
+## Credits
 N/A
 
-##License
+## License
 MIT License
 
 Copyright (c) 2024 Nick Marsico
