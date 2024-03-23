@@ -12,7 +12,7 @@ N/A
 ##Usage
 The changes that were made to the original code have been commented out so that they can be referred to by someone looking to see what has been consolidated and added. To show what changes were made to meet current industry standards. 
 
-![Horiseon](assets\127.0.0.1_5500_index.html.png)
+![Horiseon](./assets/images/127.0.0.1_5500_index.html.png)
 
 ## Credits
 N/A
